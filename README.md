@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Kashiram
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTMl,CSS,React.js,Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Kashisk2 my github username
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+
+ ---
+
+ 
+---
+
+---
+
 
 <!---
 Kashisk2/Kashisk2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
