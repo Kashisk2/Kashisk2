@@ -2,7 +2,7 @@
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
-<img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" width="350" align="right" alt="" />
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" width="400" height="267" align="right" alt="" />
 
 ```js
 import SoftwareDeveloper from 'India';
