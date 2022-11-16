@@ -81,7 +81,7 @@ class Skills extends SoftwareDeveloper {
 <br />
 <p align="center"><img style={{borderRadius: "10px", boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px",}} src="https://github-readme-streak-stats.herokuapp.com/?user=Kashisk2&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Kashisk2" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashisk2&theme=dark" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashisk2&theme=radical" alt="summarycard"/> </p>
 <hr />
 
 
