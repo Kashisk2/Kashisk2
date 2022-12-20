@@ -76,7 +76,8 @@ class Skills extends SoftwareDeveloper {
 <div align="center"><img width="49%" style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px"}}   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashisk2&layout=compact&theme=highcontrast" /></div>
 </div>
 <br />
-<div align="center"><img width={"60%"}style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px",}} src="https://activity-graph.herokuapp.com/graph?username=Kashisk2&theme=dark" alt="activitygraph" /></div>
+<div align="center"><img width={"60%"}style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px",}} 
+                         src="https://activity-graph.herokuapp.com/graph?username=Kashisk2" alt="activitygraph" /></div>
  
 <br />
 <p align="center"><img style={{borderRadius: "10px", boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px",}} src="https://github-readme-streak-stats.herokuapp.com/?user=Kashisk2&theme=dark" alt=""/></p>
