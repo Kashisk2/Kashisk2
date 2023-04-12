@@ -72,6 +72,7 @@ class Skills extends SoftwareDeveloper {
   <a href="https://Kashisk2-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
+
 <div>
 <div align="center"><img style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px"}} src="https://github-readme-stats.vercel.app/api?username=Kashisk2&show_icons=true&theme=radical"/></div>
 <br />
